@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Xebec",
+		"unitType": "WaterMelee",
+		"replaces": "Caravel",
+		"uniqueTo": "Kursa",
+		"movement": 5,
+		"strength": 20,
+		"cost": 110,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["Bonus as Attacker [25]%","May withdraw before melee"],
+		"hurryCostModifier": 20
+	},
+  	{
+		"name": "Corsair",
+		"unitType": "Melee",
+		"replaces": "Musketman",
+		"uniqueTo": "Kursa",
+		"movement": 2,
+		"strength": 22,
+		"cost": 100,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Can move after attacking","Double movement in coast"],
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	}
+]
