@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Kursa",
+		"leaderName": "Captain Amin",
+		"adjective": ["Kursai"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your trade nodes are favourably undefended, my friend.",
+		"attacked": "I shall not take this personally, but I will be wary.",
+		"defeated": "I have tried my best, but it seems God has left me...",
+		"introduction": "Be wary of the Kursa, stranger. We are fierce in the seas.",
+		
+		"neutralHello": "Hello there.",
+		"hateHello": "Dastard shiprat, what do you want?",
+		
+		"tradeRequest": "Do not worry, the Kursai can be trusted in these matters.",
+				
+		"outerColor": [154,84,168],
+		"innerColor": [255,165,0],
+		"unique": "VIKING_FURY",
+		"cities": ["Kustoum","El Boughoud","Kartagai","Agheimayl","Martura","Guellanca","Inezmane","Er Raneina","Beni Kheze","Chorloula",
+			"Boumerrem","El Guerrakra","Wagha","Shuhanib","Khemisnes","Zagokala","Abdubara","Kalad","Tebourze","Tajeker",
+			"Orabah","Sidi Mourik","Tobji","Soyan","Ain Toudaia","Absift","Jeranifra","Wad Melualkon","Nebedi","Azmani",
+			"Sades","El Gochent","El Goni","Qubadu","Brebat","Kaza","Tetouador","Buwaidarif","Atbamood","Thazahra"]
+	}
+]
